@@ -1,0 +1,21 @@
+start
+step1: open online webpage
+step2: search for products
+step3: browse products
+       if(product found)
+            "view products"
+       else
+            "go back"
+step4: if(product you want to buy)
+            "view product cost prize and rating"
+         else
+           "go back"
+step5: if(you want order)
+          "give user name-------------;
+                Adress   -------------;
+step6: chose online payment or cash on delivery
+         "chose them"
+step7: we get an order
+stop
+
+    
